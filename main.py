@@ -5,8 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 
 WEB_DRIVER = 'C:/Users/khem/Documents/edgedriver_win64'
-USER_NAME = 'pybh_ai'
-PASSWORD = 'khemkagame'
+USER_NAME = 'YOUR USERNAME'
+PASSWORD = 'YOUR PASS'
 SIMIlLER_ACC = 'python.hub'
 
 
